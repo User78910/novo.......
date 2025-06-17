@@ -5,9 +5,8 @@ body {
  text-align: center;
  }
 
-
 .video-box {
- background: #a62121;
+ background: #fa2f2f;
  padding: 10px;
  border-radius: 6px;
 max-width: 560px;
@@ -24,9 +23,9 @@ width: 100%;
  .info h3 {
  font-size: 16px;
  margin: 4px 0;
-color: #002f6c;
+color: #023a85;
  }
 .info p {
 font-size: 13px;
-color: #e0dfdf;
+color: #eceaea;
  }
